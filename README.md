@@ -28,15 +28,15 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Features and Benefits.
 
-## Profile or image avatar
+### Profile or image avatar
 
 The Angular Avatar component supports various types of images to represent user profile images like those in applications such as Mail, Outlook, GitHub, and StackOverflow.
 
-## Media types
+### Media types
 
 The avatar supports well-known media types, icons, SVG, font icons, and text.
 
-## Shapes and sizes
+### Shapes and sizes
 
 The Angular Avatar component can be either square or circular in one of five sizes: extra small, small, medium, large, and extra large. By default, avatars are created in a square shape with a medium size.
 
@@ -54,14 +54,14 @@ The Angular Avatar component can be either square or circular in one of five siz
 
 [Community Forums](https://www.syncfusion.com/forums/angular-js2?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples)
 
-[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples)
+[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples)
 
 [Online example](https://ej2.syncfusion.com/angular/demos/#/bootstrap5/avatar/default?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples)
 
 [Knowledge base](https://support.syncfusion.com/kb/article/11675/how-to-get-started-easily-with-syncfusion-avatar-component-in-angular-7?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples)
 
 ## About Syncfusion Angular Components
-The Syncfusion's [Angular components](https://www.syncfusion.com/angular-ui-components?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples) library offers over 80 UI components to work with Angular server-side and client-side (Angular WebAssembly) projects seamlessly. In addition to Avatar, we provide popular Angular Components such as [DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples),[Charts](https://www.syncfusion.com/angular-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples), [Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples), [Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples) and [Word Processor](https://www.syncfusion.com/angular-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples)..
+The Syncfusion's [Angular components](https://www.syncfusion.com/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples) library offers over 80 UI components to work with Angular server-side and client-side (Angular WebAssembly) projects seamlessly. In addition to Avatar, we provide popular Angular Components such as [DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples),[Charts](https://www.syncfusion.com/angular-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples), [Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples), [Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples) and [Word Processor](https://www.syncfusion.com/angular-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples).
 
 ### About Syncfusion
 
