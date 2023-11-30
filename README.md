@@ -38,7 +38,7 @@ The avatar supports well-known media types, icons, SVG, font icons, and text.
 
 ### Shapes and sizes
 
-The Angular Avatar component can be either square or circular in one of five sizes: extra small, small, medium, large, and extra large. By default, avatars are created in a square shape with a medium size.
+The Angular Avatar component can be either square or [circular](https://ej2.syncfusion.com/angular/documentation/avatar/types#circle?utm_source=github&utm_medium=listing&utm_campaign=angular-avatar-github-samples) in one of five sizes: extra small, small, medium, large, and extra large. By default, avatars are created in a square shape with a medium size.
 
 ## Related links
 
